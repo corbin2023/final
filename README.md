@@ -7,4 +7,9 @@
 ## Team Member
 |    Name     |    University    |    Email    |    LinkedIn    |    Role    |
 |    --    |    --    |    --    |   --    |    --    |
+|Octa Miraz |Universitas PGRI Yogyakarta |    |     |Leader   |
 |Alya Fauziah |Institut Teknologi Telkom Purwokerto |    |     |Member   |
+|Andi Zulfikar |Universitas Islam Bandung |    |     |Member   |
+|Hanina Nafisa A. |Universitas ISebelas Maret |haninafisazka@gmail.com |https://www.linkedin.com/in/haninanafisaazka/|Member   |
+|Risnaldy N.I |UPN "Veteran" Jawa Timur |    |     |Member   |
+|Ryanza Aufa Y. |UPN "Veteran" Jakarta |    |     |Member   |
