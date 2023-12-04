@@ -2,7 +2,7 @@
 
 ## Project Description ##
 
-"Rubber Guardian is a project created for Final Project in MSIB Startup Campus Track Artificial Intelligence. This product is an innovative solution designed to revolutionize the tire industry by ensuring uncompromised quality through advanced detection and classification technology. This cutting-edge system employs state-of-the-art artificial intelligence and machine learning algorithms to meticulously inspect and categorize tires during the manufacturing process. The primary objective is to enhance quality control, minimize defects, and ultimately improve overall safety and performance
+"Rubber Guardian" is a project created for Final Project in MSIB Startup Campus Track Artificial Intelligence. This product is an innovative solution designed to revolutionize the tire industry by ensuring uncompromised quality through advanced detection and classification technology. This cutting-edge system employs state-of-the-art artificial intelligence and machine learning algorithms to meticulously inspect and categorize tires during the manufacturing process. The primary objective is to enhance quality control, minimize defects, and ultimately improve overall safety and performance
 
 ## Team Member
 |      Name       |    University                      |    Email                  |    LinkedIn                        |    Role    |
@@ -21,7 +21,7 @@ However, the dataset we acquired has varied sizes. Therefore, we conducted prepr
 
 Moreover, we implemented data augmentation techniques to enhance the quality of our dataset. We applied vertical and horizontal flips, 90-degree rotation, and Gaussian blur during the augmentation process.
 
-Kaggle : bit.ly/Dataset-Rubber-Guardian
+Kaggle : [Dataset Rubber Guardian](https://bit.ly/Dataset-Rubber-Guardian)
 
 ## Model
 
